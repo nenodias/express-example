@@ -1,0 +1,18 @@
+{
+  "name": "projeto",
+  "version": "0.0.1",
+  "description": "Projeto com API REST",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Horácio Dias",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.14.0",
+    "orm": "^3.1.0",
+    "request": "~2.74.0",
+    "sqlite3": "^3.1.4",
+    "swig": "^1.4.2"
+  }
+}
